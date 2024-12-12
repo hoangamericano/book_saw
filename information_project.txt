@@ -1,0 +1,17 @@
+------Spring initializr------
+-----------------------------
+Project : grandle- groovy
+Language: java
+Spring Boot: 3.4.1(snapshot)
+-----------------------------
+Project Metadata
+ group:com.jonathan
+ artifact:booksaw
+ name:booksaw
+ description:BookSaw project for spring boot
+ package name:com.jonathan.booksaw
+ packaging: jar
+ java: 17
+-----------------------------
+Dependencies:
+Spring Data JPA, MySQL Driver,Validation, 		Spring Boot DevTools
