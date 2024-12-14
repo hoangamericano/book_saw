@@ -14,4 +14,4 @@ Project Metadata
  java: 17
 -----------------------------
 Dependencies:
-Spring Data JPA, MySQL Driver,Validation, 		Spring Boot DevTools
+Spring Data JPA, MySQL Driver,Validation, 		Spring Boot DevTools, Spring web
